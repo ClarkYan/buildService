@@ -56,5 +56,5 @@ tar zxvf  httpd-2.4.18.tar.gz
 
 ## Future work
 Now you have finished all the required steps. You can do the further tasks to employ your own applicationon the server as you wish.
-If you've encounted any problems, please do not hesitate to send an email to ```Clark YAN (me)``` at ```clarkyan1993@gmail.com``` or opening an issue on github.
+If you've encounted any problems, please do not hesitate to send an email to ```Clark YAN (me)``` at clarkyan1993@gmail.com or opening an issue on github.
 
